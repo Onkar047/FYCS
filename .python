@@ -1,0 +1,2 @@
+a=("take a string")
+print(len(a))
